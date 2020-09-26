@@ -1,0 +1,15 @@
+.btn {
+    height: 3em;
+    width: 5em;
+}
+
+#pantalla {
+    width: 320px;
+    height: 2em;
+    margin: auto;
+    text-align: right;
+    border: none;
+    font-size: xx-large;
+
+}
+
